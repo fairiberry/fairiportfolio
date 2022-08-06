@@ -21,9 +21,20 @@ img {
     height: 200px;
 }
 
-h2, a {
+h2 {
     color: #e7c3e3;
     font-size: 25px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#NAVAGATIONBARTYLESTUFF {
+    font-size: 20px;
+    text-align: end;
+}
+
+a {
+    color: #e7c3e3;
     font-style: italic;
     font-weight: bolder;
 }
