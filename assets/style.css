@@ -21,14 +21,14 @@ img {
     height: 200px;
 }
 
-h2 {
+h2, a {
     color: #e7c3e3;
     font-size: 25px;
     font-style: italic;
     font-weight: bolder;
 }
 
-#one, #two, #three, #four, #five, #six, #seven, p {
+table, #four, #five, #six, #seven, p {
     color: #e7c3e3;
     font-size: 15px;
     font-style: italic;
